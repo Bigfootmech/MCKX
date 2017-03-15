@@ -1,0 +1,2 @@
+java Parser/Parser sequence.gb
+pause

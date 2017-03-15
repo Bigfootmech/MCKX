@@ -1,0 +1,2 @@
+java Splitter/Splitter CDS_Regions/AAA
+pause
